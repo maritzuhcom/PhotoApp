@@ -1,0 +1,19 @@
+{
+  "name": "photoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maritzuhcom/PhotoApp.git"
+  },
+  "author": "Maritza Mancillas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maritzuhcom/PhotoApp/issues"
+  },
+  "homepage": "https://github.com/maritzuhcom/PhotoApp#readme"
+}
