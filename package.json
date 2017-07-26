@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maritzuhcom/PhotoApp/issues"
   },
-  "homepage": "https://github.com/maritzuhcom/PhotoApp#readme"
+  "homepage": "https://github.com/maritzuhcom/PhotoApp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
