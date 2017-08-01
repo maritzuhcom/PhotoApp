@@ -80,3 +80,10 @@ footer a {
 footer p {
   float: right;
 }
+
+footer.aboutFooter {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+
+}
